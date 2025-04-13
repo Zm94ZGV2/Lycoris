@@ -1,3 +1,6 @@
+[submodule "binario"]
+	path = binario
+	url = https://github.com/vimux/binario
 [submodule "themes/binario"]
 	path = themes/binario
-	url = https://github.com/Vimux/binario.git
+	url = https://github.com/vimux/binario
