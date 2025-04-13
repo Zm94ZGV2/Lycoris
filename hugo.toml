@@ -6,6 +6,11 @@ theme = "binario"
 disqusShortname = "" # DEPRECATED! Use .Services.Disqus.Shortname
 googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
 [services.disqus]
   shortname = "" # Enable Disqus by entering your Disqus shortname
 [services.googleAnalytics]
