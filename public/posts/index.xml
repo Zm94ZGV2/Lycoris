@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lycoris Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Lycoris Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Apr 2025 10:46:29 +0800</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>/posts/my-first-blog/</link>
+      <pubDate>Sat, 12 Apr 2025 10:46:29 +0800</pubDate>
+      <guid>/posts/my-first-blog/</guid>
+      <description>&lt;h2 id=&#34;hey-everyone&#34;&gt;Hey everyone!&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m super excited to share my first blog post with you. Here, I&amp;rsquo;ll be chatting about all things tech, diving into the world of Linux, exploring Indonesian novels, and sharing my love for music—especially shoegaze. Occasionally, I might delve into English novels, and if the mood strikes, touch on programming and cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;Please bear with me if there are any grammatical hiccups; English isn&amp;rsquo;t my first language. I&amp;rsquo;m doing my best to improve, and I hope you enjoy the content!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

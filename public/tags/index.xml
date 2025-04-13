@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lycoris Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Lycoris Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Apr 2025 10:46:29 +0800</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>/tags/introduction/</link>
+      <pubDate>Sat, 12 Apr 2025 10:46:29 +0800</pubDate>
+      <guid>/tags/introduction/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
