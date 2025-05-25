@@ -10,6 +10,17 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
   [caches.images]
     dir = ':cacheDir/images'
 
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/posts/"
 
 [services.disqus]
   shortname = "" # Enable Disqus by entering your Disqus shortname
@@ -17,8 +28,8 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
   ID = "" # Enable Google Analytics by entering your tracking ID
 
 [Params]
-  description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
-  copyright = "Binario" # Copyright holder, otherwise will use .Site.Title
+  description = "Welcome to my blog! I hope you enjoy it." # Site Description. Used in meta description
+  copyright = "Lycoris" # Copyright holder, otherwise will use .Site.Title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -48,7 +59,7 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 
 [Params.Breadcrumb]
   enable = true # Enable breadcrumb block globally
-  homeText = "Binario" # Home node text
+  homeText = "Lycoris" # Home node text
 
 [Params.Social]
   email = "Zm94ZGV2@proton.me"
@@ -75,13 +86,13 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 # https://www.w3.org/TR/appmanifest/
 # https://developers.google.com/web/fundamentals/web-app-manifest/
 [Params.Manifest]
-  name = "Binario"
-  shortName = "Binario"
+  name = "Lycoris"
+  shortName = "Lycoris"
   display = "browser"
   startUrl = "/"
   backgroundColor = "#2a2a2a"
   themeColor = "#1b1b1b"
-  description = "Responsive card-based & code-light Hugo theme"
+  description = "Welcome to my blog! I hope you enjoy it."
   orientation = "portrait"
   scope = "/"
 
@@ -97,5 +108,5 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 
 [markup]
   [markup.highlight]
-    style = "gruvbox"  # dark themes: monokai, api, fruity, native, rrt, swapoff ... https://xyproto.github.io/splash/docs/longer/all.html
+    style = "monokai"  # dark themes: monokai, api, fruity, native, rrt, swapoff ... https://xyproto.github.io/splash/docs/longer/all.html
 

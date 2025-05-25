@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lycoris Blog</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Lycoris Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Apr 2025 10:46:29 +0800</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 May 2025 15:06:40 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your First Program In Python</title>
+      <link>//localhost:1313/posts/your-first-program-in-python/</link>
+      <pubDate>Fri, 16 May 2025 15:06:40 +0800</pubDate>
+      <guid>//localhost:1313/posts/your-first-program-in-python/</guid>
+      <description>&lt;h2 id=&#34;your-first-program-in-python&#34;&gt;Your First Program In Python&lt;/h2&gt;&#xA;&lt;p&gt;First, you must install Python on your operating system. Today, I’m going to install it on Linux.&#xA;If you’re using Debian, you should run the following command to install Python:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1&lt;/span&gt;&lt;span&gt;&lt;span style=&#34;color:#a2f&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#b44&#34;&gt;&amp;#34;hello world&amp;#34;&lt;/span&gt;) &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>My First Blog</title>
-      <link>/posts/my-first-blog/</link>
+      <link>//localhost:1313/posts/my-first-blog/</link>
       <pubDate>Sat, 12 Apr 2025 10:46:29 +0800</pubDate>
-      <guid>/posts/my-first-blog/</guid>
+      <guid>//localhost:1313/posts/my-first-blog/</guid>
       <description>&lt;h2 id=&#34;hey-everyone&#34;&gt;Hey everyone!&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m super excited to share my first blog post with you. Here, I&amp;rsquo;ll be chatting about all things tech, diving into the world of Linux, exploring Indonesian novels, and sharing my love for music—especially shoegaze. Occasionally, I might delve into English novels, and if the mood strikes, touch on programming and cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;Please bear with me if there are any grammatical hiccups; English isn&amp;rsquo;t my first language. I&amp;rsquo;m doing my best to improve, and I hope you enjoy the content!&lt;/p&gt;</description>
     </item>
   </channel>
